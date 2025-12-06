@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as r,w as s,a as o}from"./index.6b6f3d87.js";import{V as n}from"./VSheet.c8d9a569.js";const c={};function f(_,e){return a(),r(n,{class:"px-4"},{default:s(()=>e[0]||(e[0]=[o(" Chuy\u1EC3n \u0111\u01A1n h\xE0ng t\u1EEB PDF sang Excel ")])),_:1})}const l=t(c,[["render",f]]);export{l as default};

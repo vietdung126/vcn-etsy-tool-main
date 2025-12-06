@@ -1,0 +1,1 @@
+import{_ as t,o as r,c as a,w as o,a as s}from"./index.6b6f3d87.js";import{V as c}from"./VSheet.c8d9a569.js";const n={};function f(_,e){return r(),a(c,{class:"px-4"},{default:o(()=>e[0]||(e[0]=[s(" C\xE0i \u0111\u1EB7t SPU ")])),_:1})}const p=t(n,[["render",f]]);export{p as default};
